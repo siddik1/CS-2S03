@@ -4,9 +4,13 @@ One large chemical company pays its salespeople on a commission basis.  The  sal
 ### Sample Output 
 
 Enter sales in dollars (-1 to end): 5000.00
+
 Salary is: $650.00
+
 Enter sales in dollars (-1 to end): 1234.56
+
 Salary is: $311.11
+
 Enter sales in dollars (-1 to end): -1
 
 # Question 2
